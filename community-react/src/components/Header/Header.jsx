@@ -19,7 +19,7 @@ export default function Header() {
 
     return (
         <header>
-            <Link to="/posts" className="logo">Dori's Community</Link>
+            <Link to="/posts" className="logo">KaArchive</Link>
 
             <nav className="header-menu">
                 <Link
