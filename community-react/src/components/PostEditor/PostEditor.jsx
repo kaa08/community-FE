@@ -1,4 +1,4 @@
-import FileDropzone from "../FileDropzone/FileDropzone";
+import FileDropzone from "../FileDropZone/FileDropZone";
 import ImagePreviewList from "../ImagePreviewList/ImagePreviewList";
 import "./PostEditor.css";
 
