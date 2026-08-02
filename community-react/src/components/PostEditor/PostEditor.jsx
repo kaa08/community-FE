@@ -3,7 +3,6 @@ import ImagePreviewList from "../ImagePreviewList/ImagePreviewList";
 import "./PostEditor.css";
 
 export default function PostEditor({
-                                       mode = "create",
                                        titleText,
                                        title,
                                        content,
