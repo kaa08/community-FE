@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import "./FileDropzone.css";
+import "./FileDropZone.css";
 
 export default function FileDropzone({ placeholder, onFilesSelected }) {
     const inputRef = useRef(null);
